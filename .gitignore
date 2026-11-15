@@ -1,0 +1,16 @@
+venv/
+bin/
+lib/
+include/
+share/
+__pycache__/
+*.pyc
+.vscode/
+.DS_Store
+pyvenv.cfg
+data/User_Reservations.json
+data/parked.json
+data/reservation_extraction.txt
+data/reserved.txt
+reservation/*
+violations/*
